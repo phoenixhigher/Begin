@@ -9,6 +9,7 @@ namespace Begin
             while (true)
             {
                 Console.WriteLine("Hello World");
+                Console.WriteLine("Hello Universe");
             }
         }
     }
